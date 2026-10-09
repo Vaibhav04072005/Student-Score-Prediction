@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+logs/
+artifacts/*.pkl
+artifacts/*.csv
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
